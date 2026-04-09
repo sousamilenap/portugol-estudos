@@ -1,11 +1,13 @@
 programa
-{ //Faça um algoritmo que recebe a data de nascimento e a
+{
+//Faça um algoritmo que recebe a data de nascimento e a
 //data atual. Se o usuário tiver 18 anos imprima a
 //mensagem “Bem vindo a vida adulta”. Caso contrário
 //imprima a mensagem “Nada a dizer”.
 	
 	funcao inicio()
-	{ inteiro anodenascimento, anoatual, idade
+	{
+ inteiro anodenascimento, anoatual, idade
 
 		escreva("Qual é seu ano de nascimento?: ")
 		leia(anodenascimento)
