@@ -1,5 +1,5 @@
 programa
-{//Faça um algoritmo que receba e armazene as informações:
+{//Faça um algoritmo que receba e armazene as informações:
 //a.Código Funcionário
 //b.Idade
 //c.Tipo sanguíneo
