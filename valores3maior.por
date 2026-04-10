@@ -1,10 +1,10 @@
 programa
-{
-	//Faça um algoritmo que leia 3 valores. Em seguida você deve imprimir (mostrar na tela) o maior valor
+{//Faça um algoritmo que leia 3 valores. Em seguida você deve imprimir (mostrar na tela) o maior valor
 	
 	funcao inicio()
 	
-	{ real valor1, valor2, valor3, maior, menor
+	{
+ real valor1, valor2, valor3, maior, menor
 
 		escreva("Digite um valor: ")
 		leia(valor1)
